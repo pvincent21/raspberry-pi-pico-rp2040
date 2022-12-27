@@ -16,3 +16,4 @@ how to build :
 - choose port Raspberry pi pico rp2040
 - push button BOOT and RST
 
+![Untitled](https://user-images.githubusercontent.com/88431038/209620180-cb257d27-0eb0-454f-bc38-137082186593.png)
