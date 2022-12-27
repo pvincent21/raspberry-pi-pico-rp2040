@@ -20,5 +20,4 @@ how to build :
 - Release the BOOT button after 1 second
 - Copy the firmware "rp2-pico-20220618-v1.19.1.uf2 files" to hard disk that appears and the core board will automatically reboot
 
-
 Videos:
