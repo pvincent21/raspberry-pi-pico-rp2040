@@ -15,7 +15,7 @@ how to build :
 - choose board Raspberry pi pico
 - ![Untitled](https://user-images.githubusercontent.com/88431038/209620180-cb257d27-0eb0-454f-bc38-137082186593.png)
 - choose port Raspberry pi pico rp2040
-- ress and hold the BOOT button
+- Press and hold the BOOT button
 - Press the RST button
 - Release the BOOT button after 1 second
 - Copy the firmware "rp2-pico-20220618-v1.19.1.uf2 files" to hard disk that appears and the core board will automatically reboot
