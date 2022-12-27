@@ -1,4 +1,4 @@
-# raspberry-pi-pico-rp2040
+# raspberry-pi-pico-rp2040 RGB 
 
 how to make Raspberry pi Pico rp2040 using Arduino IDE:
 
@@ -20,5 +20,7 @@ how to build :
 - Release the BOOT button after 1 second
 - Copy the firmware "rp2-pico-20220618-v1.19.1.uf2 files" to hard disk that appears and the core board will automatically reboot
 
-
 Videos:
+
+https://user-images.githubusercontent.com/88431038/209621726-fa1b46f1-515a-45b1-b386-38800433aa90.mp4
+
